@@ -1,0 +1,25 @@
+.fixed{
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: grey;
+    padding: 20px;
+}
+.sticky{
+    position: fixed;
+    bottom:20px;
+    right: 20px;
+    background-color: red;
+    padding: 15px;
+}
+.second{
+    position: absolute;
+    top: 30px;
+   left: 10px;
+    font-size: 25px;
+    color:red
+
+}
+.first{
+    position: relative;
+}
